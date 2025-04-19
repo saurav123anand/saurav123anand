@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar Jha</h1>
-<h3 align="center">I am a Full Stack Java Developer from India with 2.8 years of hands-on experience in building dynamic, high-performance applications. I specialize in using Spring Boot for backend development and React for creating responsive, user-friendly frontends. I'm always eager to explore new technologies and improve my skills.</h3>
+<h3 align="center">I am a Full Stack Java Developer from India with 2.9 years of hands-on experience in building dynamic, high-performance applications. I specialize in using Spring Boot for backend development and React for creating responsive, user-friendly frontends. I'm always eager to explore new technologies and improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav123anand&label=Profile%20views&color=0e75b6&style=flat" alt="saurav123anand" /> </p>
 
